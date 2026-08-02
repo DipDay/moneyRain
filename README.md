@@ -1,4 +1,4 @@
-```markdown
+
 # 💸 Money Rain Game
 
 **Money Rain** is a 2D arcade-style avoidance and collection game built using Python and Pygame. The objective is simple: collect as much falling money as possible across different lanes while dodging police obstacles to stay alive and achieve the highest score!
@@ -42,7 +42,7 @@ Make sure you have **Python 3.x** and **Pygame** installed on your system.
    git clone [https://github.com/DipDay/moneyRain.git](https://github.com/DipDay/moneyRain.git)
    cd moneyRain
 
-```
+
 
 2. **Install required dependencies:**
 ```bash
@@ -84,7 +84,3 @@ moneyRain/
 ## 📝 Refactoring & Maintainability
 
 This repository contains code refactored for **PEP 8 style guidelines**, enhanced readability, structured modular functions, and optimized input event handling while keeping all original assets and core mechanics intact.
-
-```
-
-```
